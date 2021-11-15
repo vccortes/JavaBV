@@ -1,5 +1,6 @@
+package ExIntro;
 
-public class fundamentos {
+public class condicional1 {
 	public static void main(String[] args){
 		  double notaFinal = 60.75;
 		    String resultado = "";
@@ -15,4 +16,3 @@ public class fundamentos {
 		  }
 	}
 }
-
