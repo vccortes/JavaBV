@@ -3,34 +3,34 @@ package ExEstruturaCont;
 public class CondicionalMultipla {
 
 	public static void main(String[] args) {
-		multipla1();
+//		multipla1();
 		multipla2();
 
 	}
 
-	static void multipla1() {
-		char operador = '+';
-		
-
-		switch (operador) {
-
-		case '+':
-			somar();
-			break;
-		case '-':
-			subtrair();
-			break;
-		case '*':
-			multiplicar();
-			break;
-		case '/':
-			dividir();
-			break;
-		default:
-			System.err.println("Operador inválido");
-		}
-
-	}
+//	static void multipla1() {
+//		char operador = '+';
+//		
+//
+//		switch (operador) {
+//
+//		case '+':
+//			somar();
+//			break;
+//		case '-':
+//			subtrair();
+//			break;
+//		case '*':
+//			multiplicar();
+//			break;
+//		case '/':
+//			dividir();
+//			break;
+//		default:
+//			System.err.println("Operador inválido");
+//		}
+//
+//	}
 
 	static void multipla2() {
 		int dia = 1;
