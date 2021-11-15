@@ -1,4 +1,4 @@
-package ExIntro;
+package ExEstruturaCont;
 
 public class condicional1 {
 	public static void main(String[] args) {
