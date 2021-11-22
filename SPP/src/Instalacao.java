@@ -11,6 +11,14 @@ public class Instalacao {
 		
 	}
 	
+	public long getIdInstalacao() {
+		return idInstalacao;
+	}
+
+	public void setIdInstalacao(long idInstalacao) {
+		this.idInstalacao = idInstalacao;
+	}
+
 	//construtor com parametros
 	public Instalacao(long idLocalizacao, String nome, Endereco localizacao) {
 		this.idInstalacao = idLocalizacao;
